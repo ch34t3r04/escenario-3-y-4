@@ -1,0 +1,10 @@
+P1;Camisa1;96909
+P2;Pantalon2;57220
+P3;Zapatos3;50179
+P4;Chaqueta4;31941
+P5;Gorra5;16005
+P6;Medias6;20884
+P7;Cinturon7;47176
+P8;Bufanda8;46827
+P9;Guantes9;46978
+P10;Bolso10;98397

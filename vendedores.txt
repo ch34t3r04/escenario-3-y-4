@@ -1,0 +1,5 @@
+TI;1757973985;Santiago;Martinez
+CE;1032199074;Sebastian;Gomez
+CE;1052448407;Santiago;Garcia
+CC;1747558284;Andres;Martinez
+CC;1188364638;Felipe;Perez
